@@ -1648,7 +1648,7 @@ html {
     }
   }
 
-  .autosuggest__results_item:hover{
+  .autosuggest__results_item:hover, .autosuggest__results_item-highlighted{
     background-color: #f5f3f6;
   }
 
